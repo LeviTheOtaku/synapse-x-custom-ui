@@ -1,0 +1,13 @@
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\bin\Debug\Synapse X Custom UI Template.exe.config
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\bin\Debug\Synapse X Custom UI Template.exe
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\bin\Debug\Synapse X Custom UI Template.pdb
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\bin\Debug\sxlib.dll
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\bin\Debug\sxlib.xml
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\obj\Debug\Synapse X Custom UI Template.csprojAssemblyReference.cache
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\obj\Debug\Synapse_X_Custom_UI_Template.Form1.resources
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\obj\Debug\Synapse_X_Custom_UI_Template.Form2.resources
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\obj\Debug\Synapse_X_Custom_UI_Template.Properties.Resources.resources
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\obj\Debug\Synapse X Custom UI Template.csproj.GenerateResource.cache
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\obj\Debug\Synapse X Custom UI Template.csproj.CopyComplete
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\obj\Debug\Synapse X Custom UI Template.exe
+D:\levij\source\repos\Synapse X Custom UI Template\Synapse X Custom UI Template\obj\Debug\Synapse X Custom UI Template.pdb
